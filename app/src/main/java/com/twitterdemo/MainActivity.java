@@ -58,9 +58,7 @@ public class MainActivity extends FragmentActivity {
                         }
                     }).build();
         } else {
-            TwitterConnect.with(this, Param.TWAction.LOGOUT)
-                    .build();
-            profile();
+            email();
         }
     }
 
