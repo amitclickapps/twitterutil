@@ -1,0 +1,374 @@
+[
+    {
+        "outputFile": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 59,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/91eb38f9b8ebd898347a91a10634fa67d88ed1dd/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 57,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 57,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 61,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 61,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 64,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 64,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 67,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/7d2d1eec6ef23b4a63286b2fadaa28df0f77e155/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 51,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/91eb38f9b8ebd898347a91a10634fa67d88ed1dd/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 51,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 41,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 41,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 41,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 41,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 48,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/91eb38f9b8ebd898347a91a10634fa67d88ed1dd/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 48,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 45,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 45,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 83,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 83,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 112,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 112,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 77,
+                    "endOffset": 1269
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 77,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1274,
+                    "endColumn": 58,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 58,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 75,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 75,
+                        "endOffset": 1175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 56,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/values-mr/values-mr.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1180,
+                        "endColumn": 56,
+                        "endOffset": 1232
+                    }
+                }
+            }
+        ]
+    }
+]

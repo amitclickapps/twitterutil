@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="248db846943a623485d10820cd3bc63544e3f43d">
+        <dex dex="/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/app/build/intermediates/pre-dexed/debug/classes_b4b80a920c4ffeeb4dd9050844f3b41b98b3ac7f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__tweet_quote.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__tweet_quote.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__player_activity.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__player_activity.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__tweet_compact.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__media_badge.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__media_badge.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__action_bar.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__activity_oauth.xml",
+        "source": "/home/clickapps/.android/build-cache/7d2d1eec6ef23b4a63286b2fadaa28df0f77e155/output/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__gallery_activity.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__composer_view.xml",
+        "source": "/home/clickapps/.android/build-cache/91eb38f9b8ebd898347a91a10634fa67d88ed1dd/output/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__activity_composer.xml",
+        "source": "/home/clickapps/.android/build-cache/91eb38f9b8ebd898347a91a10634fa67d88ed1dd/output/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__tweet.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/clickapps/.android/build-cache/e89936851ef7abd1ce6685a6cf1c0df0cf5737ad/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/clickapps/455bb597-8243-4d35-9dc6-bf99921f84ae/clickapps/Android/Workspace/twitterutil/twitterconnect/build/intermediates/res/merged/debug/layout/tw__video_control.xml",
+        "source": "/home/clickapps/.android/build-cache/2b3997a84f108880d77b6a70d32de7fac2090b99/output/res/layout/tw__video_control.xml"
+    }
+]
