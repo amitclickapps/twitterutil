@@ -5,11 +5,15 @@ import android.support.annotation.NonNull;
 
 import com.twitter.sdk.android.core.Callback;
 import com.twitter.sdk.android.core.Result;
+import com.twitter.sdk.android.core.TwitterApiClient;
 import com.twitter.sdk.android.core.TwitterCore;
 import com.twitter.sdk.android.core.TwitterException;
 import com.twitter.sdk.android.core.TwitterSession;
 import com.twitterconnect.Param;
+import com.twitterconnect.TwitterConfiguration;
 import com.twitterconnect.TwitterConnect;
+
+import okhttp3.OkHttpClient;
 
 /**
  * Created by amit on 10/2/17.
@@ -26,6 +30,11 @@ public class LoginController {
             @Override
             public void success(Result<TwitterSession> twitterSessionResult) {
                 // Success
+                final TwitterSession activeSession = TwitterConnect.get().session();
+                final OkHttpClient customClient = new OkHttpClient.Builder()
+                        .addInterceptor(TwitterConfiguration.getLoggingInterceptor()).build();
+                TwitterApiClient customApiClient = new TwClient(activeSession, customClient);
+                TwitterCore.getInstance().addApiClient(activeSession, customApiClient);
                 if (param.getCallback() != null)
                     param.getCallback().onSuccess(twitterSessionResult.data);
             }

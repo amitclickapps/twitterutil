@@ -24,8 +24,8 @@ import com.twitterconnect.callback.OnTwitterCallback;
 public class MainActivity extends FragmentActivity {
 
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "rf0LDQh4eWBVVgwIvDqGE4ncZ";
-    private static final String TWITTER_SECRET = "o0SCjqpH1crXGGLzyMVVKPbkATqzsBWFGA6t6OSpNCpjthi9gF";
+    private static final String TWITTER_KEY = "mpUVvDLh4EE0376IdQZfGI5vf";
+    private static final String TWITTER_SECRET = "L8SEa7dfP1qdCSUTfrkXrI0CjY4uqNUin7tfVc3gn588CUQomm";
     TextView textView;
 
     @Override
@@ -58,8 +58,8 @@ public class MainActivity extends FragmentActivity {
                         }
                     }).build();
         } else {
-//            TwitterConnect.with(this, Param.TWAction.LOGOUT)
-//                    .build();
+            TwitterConnect.with(this, Param.TWAction.LOGOUT)
+                    .build();
             profile();
         }
     }
