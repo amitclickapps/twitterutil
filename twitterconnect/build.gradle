@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'org.bitbucket.amit-clickapps'
+group = 'com.github.amitclickapps'
 version = '1.0.0'
 repositories {
     jcenter()
