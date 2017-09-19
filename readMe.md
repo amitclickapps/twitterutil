@@ -1,4 +1,6 @@
+![](https://jitpack.io/v/amitclickapps/twitterutil.svg?style=flat-square)
 **How to Use Library**
+
 
 `TwitterConnect` is used to call every Method.
 Currently this library support only following service.
@@ -116,4 +118,25 @@ TwitterConnect.with(this, Param.TWAction.PROFILE)
 if(requestCode == TwitterAuthConfig.DEFAULT_AUTH_REQUEST_CODE){
      TwitterConnect.get().onActivityResult(requestCode, resultCode, data);
  }
+```
+
+Download
+--------
+Add the JitPack repository to your root build.gradle:
+
+![](https://jitpack.io/v/amitclickapps/twitterutil.svg?style=flat-square)
+
+
+```groovy
+	allprojects {
+		repositories {
+			maven { url "https://jitpack.io" }
+		}
+	}
+```
+Add the Gradle dependency:
+```groovy
+	dependencies {
+		compile 'com.github.amitclickapps:twitterutil:latest'
+	}
 ```
